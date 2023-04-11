@@ -1,0 +1,4 @@
+name: Songkran
+version: '${project.version}'
+main: me.pinont.songkran.Songkran
+api-version: 1.19
