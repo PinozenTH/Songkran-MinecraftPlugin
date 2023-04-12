@@ -1,0 +1,4 @@
+name: Songkran-Minigame
+version: '1.0-SNAPSHOT'
+main: me.pinont.songkran.Songkran
+api-version: 1.19
